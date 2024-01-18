@@ -1,0 +1,171 @@
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+F:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+F:\repos\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+L:\repos\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+L:\repos\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+E:\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+E:\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+C:\apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.Robusoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.build.Robusoft.props
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Robusoft.props
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Robusoft.props
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+C:\apps\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.Robusoft.Microsoft.AspNetCore.StaticWebAssets.props
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.build.Robusoft.props
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Robusoft.props
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Robusoft.props
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.pack.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+G:\Software Development\Apps\Projects\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\appsettings.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.staticwebassets.runtime.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.exe
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.deps.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.runtimeconfig.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.dll
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\bin\Debug\net6.0\Robusoft.pdb
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.AssemblyReference.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfoInputs.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.AssemblyInfo.cs
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.csproj.CoreCompileInputs.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.RazorAssemblyInfo.cs
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.Robusoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.build.Robusoft.props
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Robusoft.props
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Robusoft.props
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\bundle\Robusoft.styles.css
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\scopedcss\projectbundle\Robusoft.bundle.scp.css
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.dll
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\refint\Robusoft.dll
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.pdb
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\Robusoft.genruntimeconfig.cache
+C:\Users\galca\Documents\Software Development\Apps\Robusoft\Robusoft\obj\Debug\net6.0\ref\Robusoft.dll

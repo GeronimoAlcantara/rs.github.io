@@ -1,0 +1,37 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    background-image: url("/images/Dublin.jpg");
+    background-size: cover;
+    /* Add the blur effect */
+/*    filter: brightness(90%);
+    -webkit-filter: brightness(90%);*/
+}
+
+nav {
+    background-image: url("/images/Dublin.jpg");
+    background-size: cover;
+    /* Add the blur effect */
+    filter: brightness(50%);
+    -webkit-filter: brightness(50%);
+}
+
+header {
+    /*    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;*/
+}
